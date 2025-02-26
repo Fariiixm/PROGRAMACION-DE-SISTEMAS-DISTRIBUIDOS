@@ -14,7 +14,7 @@
 #define END_OF_PROCESSING -1
 // Prototipos de funciones
 
-
+//generar primoa
 int generatePrimeNumber() {
     static int current = 2; // Empezamos con el primer número primo
     bool isPrime = false;
