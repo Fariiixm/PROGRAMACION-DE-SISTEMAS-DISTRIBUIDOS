@@ -1,6 +1,6 @@
 #include "game.h"
 
-
+//game.c
 void initBoard (tBoard board){
 
 	int i;
